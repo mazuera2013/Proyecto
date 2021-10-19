@@ -1,0 +1,5 @@
+body {
+    background-color: #e5e5f7;
+    opacity: 0.6;
+    background: linear-gradient(135deg, #07031355 25%, transparent 25%) -12px 0/ 24px 24px, linear-gradient(225deg, #070313 25%, transparent 25%) -12px 0/ 24px 24px, linear-gradient(315deg, #07031355 25%, transparent 25%) 0px 0/ 24px 24px, linear-gradient(45deg, #070313 25%, #e5e5f7 25%) 0px 0/ 24px 24px;
+}
